@@ -1,6 +1,8 @@
 # tslab-extended
 
-Based on [tslab](https://github.com/yunabe/tslab)
+Jupyter NoteBook + Node.js + TypeScrit. Based on [tslab](https://github.com/yunabe/tslab), but with batteries.
+
+![preview](./public/screeenshot.png)
 
 # Install
 
