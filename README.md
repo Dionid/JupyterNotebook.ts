@@ -1,6 +1,6 @@
 # tslab-extended
 
-Jupyter NoteBook + Node.js + TypeScrit. Based on [tslab](https://github.com/yunabe/tslab), but with batteries.
+Jupyter NoteBook + Node.js + TypeScrit. Based on [tslab](https://github.com/yunabe/tslab), but with batteries (envs + package.json).
 
 ![preview](./public/screeenshot.png)
 
@@ -13,7 +13,12 @@ Jupyter NoteBook + Node.js + TypeScrit. Based on [tslab](https://github.com/yuna
 1. Add libraries to package.json
 1. `docker-compose up -d`
 1. Find link in docker logs
+1. Create / edit notebooks
+1. `git add .`
+1. `git commit -m "..."`
+1. `git push`
 
 # Useful links
 
-https://github.com/yunabe/tslab-examples
+- https://slides.com/yearofmoo/jupyter-notebooks-with-es6-and-typescript/fullscreen
+- https://github.com/yunabe/tslab-examples
