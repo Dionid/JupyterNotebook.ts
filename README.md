@@ -6,15 +6,13 @@ Jupyter NoteBook + Node.js + TypeScrit. Based on [tslab](https://github.com/yuna
 
 # Install
 
-```bash
-# fork repo
-git clone {your-fork}.git
-cd tslab-extended
-# add your envs to `.env`
-# add libraries to package.json
-docker-compose up -d
-# find link in docker logs
-```
+1. Fork repo
+1. `git clone {your-fork}.git`
+1. `cd {your-repo-folder}`
+1. Add your envs to `.env`
+1. Add libraries to package.json
+1. `docker-compose up -d`
+1. Find link in docker logs
 
 # Useful links
 
